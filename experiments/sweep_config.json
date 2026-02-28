@@ -1,0 +1,32 @@
+{
+    "experiments": [
+        {
+            "param": "w_prestige",
+            "min": 0.10,
+            "max": 0.50,
+            "step": 0.05,
+            "runs": 10
+        },
+        {
+            "param": "w_anomie",
+            "min": 0.10,
+            "max": 0.40,
+            "step": 0.05,
+            "runs": 10
+        },
+        {
+            "param": "tokyo_tax",
+            "min": 0,
+            "max": 2000,
+            "step": 250,
+            "runs": 5
+        },
+        {
+            "param": "remote_work_pct",
+            "min": 0.10,
+            "max": 0.70,
+            "step": 0.10,
+            "runs": 5
+        }
+    ]
+}
